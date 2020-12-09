@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Zay Smith, Horrible Artist, Launches Site"
-permalink: /blog/:year/:month/:day/:title
 date: 2020-12-09
 ---
 
